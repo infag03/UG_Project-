@@ -15,9 +15,7 @@ ___
    - <b>[/Web_Application](/Web_Application)</b> - Code + video demo of a simple proof-of-concept web-app that detects cracking.
    
 ___
-### Project Members
 
-   - <b>[Alex Cheng](https://github.com/alexwcheng)</b>
 
 ___
 ### Project Scenario
