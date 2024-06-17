@@ -13,11 +13,7 @@
    - <b>[Web_Application](/Web_Application)</b> - Code + video demo of a simple proof-of-concept web-app that detects cracking.
    
 #
-### Project Members
 
-   - <b>[Alex Cheng](https://github.com/alexwcheng)</b>
-
-#
 ### Project Scenario
 
 Architects and engineers visit construction sites regularly to observe general progress and identify **deficient work.** Photography is the primary way to document conditions on-site. If the project is large, then thousands of photos can be taken on a single visit. After the site visit, a field report is made that records general observations and identifies any deficient work. It is very time-consuming to find all of the images that capture deficient work in order to generate a detailed and thorough field report.
